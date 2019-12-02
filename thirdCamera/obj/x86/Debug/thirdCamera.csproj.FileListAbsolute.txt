@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\x86\Debug\thirdCamera.exe
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\x86\Debug\thirdCamera.pdb
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\x86\Debug\thirdCamera.Form1.resources
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\x86\Debug\thirdCamera.Properties.Resources.resources
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\x86\Debug\thirdCamera.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\x86\Debug\thirdCamera.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\x86\Debug\thirdCamera.exe
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\x86\Debug\thirdCamera.pdb

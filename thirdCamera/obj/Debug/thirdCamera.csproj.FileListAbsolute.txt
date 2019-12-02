@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\Debug\thirdCamera.exe
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\Debug\thirdCamera.pdb
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.Form1.resources
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.Properties.Resources.resources
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.exe
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.pdb
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\obj\Debug\thirdCamera.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\thirdCamera\thirdCamera\bin\Debug\thirdCamera.exe.config
